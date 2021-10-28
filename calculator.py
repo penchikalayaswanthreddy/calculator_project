@@ -1,6 +1,6 @@
 a=int(input("Enter the first number:"))
 b=int(input("Enter the second number:"))
 def addition():
-    pass
+    c=a+b
 def subtraction():
-    pass
+    c=a-b
